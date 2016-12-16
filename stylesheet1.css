@@ -1,0 +1,42 @@
+body { background:red; 
+	color: black;
+	font-size: 14pt; 
+	font-family: arial; 
+	
+	}
+	
+	
+	
+h1 { font-size: 32pt;
+		 font-weight: bold;
+		 color: black;
+		 
+		 }
+		 
+		 
+h2  { font-size: 150%;
+		  font-style: italic;
+		  text-decoration: underline;
+		  
+		}
+		
+nav li {display: inline-block;
+        border: 2px solid black; 
+        background: white;
+        padding: 10px;
+        margin:15px
+        
+        }
+	
+	
+a { color:  blue;
+    text-decoration: none }
+a:hover {color: red;
+        background: white}
+        
+.title { color:red;
+		 font-style: bold;
+	}
+
+
+
